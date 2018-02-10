@@ -1,0 +1,20 @@
+geometry line 5	Along Parametric	
+geometry line 8	Along Parametric	
+geometry line 11	Along Parametric	
+geometry line 14	Along Parametric	
+geometry line 17	Along Parametric	
+geometry line 20	Along Parametric	
+geometry line 23	Along Parametric	
+geometry line 26	Along Parametric	
+geometry line 29	Along Parametric	
+geometry line 32	Along Parametric	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
